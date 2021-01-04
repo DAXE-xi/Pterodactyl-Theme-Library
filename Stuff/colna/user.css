@@ -17,7 +17,7 @@ body, .content-wrapper {
 .skin-blue .main-header .navbar,
 .skin-blue .main-header .logo,
 .main-footer {
-	background-color: #203A43 !important;
+	background-color: #ffffff !important;
 	border-color: transparent !important;
 	box-shadow: none !important;
 }
@@ -278,7 +278,7 @@ pre,
 .LbmBV,
 .hahdAC {
 	border-radius: 15px !important;
-	background-color: #192E35 !important;
+	background-color: #000000 !important;
 	margin-bottom: .75vw !important;
 }
 
@@ -287,7 +287,7 @@ pre,
 
 .xterm .xterm-screen,
 .xterm .xterm-viewport {
-	background-color: #192E35 !important;
+	background-color: #000000 !important;
 }
 
 
