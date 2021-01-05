@@ -327,8 +327,8 @@ pre,
 /* Changes input text area */
 
 .kZaCVF {
-	border-color: #3F778A !important;
-	background-color: #203A43 !important;
+	border-color: #ffffff !important;
+	background-color: #000000 !important;
 	border-radius: 15px !important;
 }
 
@@ -371,7 +371,7 @@ pre,
 [multiple],
 textarea,
 select {
-	background-color: #203A43 !important;
+	background-color: #000000 !important;
 	border-color: transparent !important;
 	color: #fafafa !important;
 	border-radius: 15px !important;
