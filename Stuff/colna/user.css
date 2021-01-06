@@ -317,28 +317,6 @@ pre,
 }
 
 
-/* Changes console input */
-
-[type="text"],
-[type="email"],
-[type="url"],
-[type="password"],
-[type="number"],
-[type="date"],
-[type="datetime-local"],
-[type="month"],
-[type="search"],
-[type="tel"],
-[type="time"],
-[type="week"],
-[multiple],
-textarea,
-select {
-	background-color: #000000 !important;
-	border-color: transparent !important;
-	color: #fafafa !important;
-	border-radius: 0px !important;
-}
 
 
 /* Changes check boxes */
