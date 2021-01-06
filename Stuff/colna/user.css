@@ -176,7 +176,7 @@ code,
 .liBonM .icon,
 .jqQFoq .icon,
 .dRhlIo .icon {
-	background-color: #3F778A !important;
+	background-color: #474747 !important;
 }
 
 
@@ -219,8 +219,8 @@ pre,
 .select2-container--default .select2-selection--single,
 .select2-container--default .select2-selection--multiple {
 	border-color: none !important;
-	background-color: #0F2229 !important;
-	border-radius: 15px !important;
+	background-color: #000000 !important;
+	border-radius: 0px !important;
 }
 
 
@@ -303,7 +303,7 @@ pre,
 .kZaCVF {
 	border-color: #ffffff !important;
 	background-color: #000000 !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 
@@ -315,7 +315,7 @@ pre,
 .eGIYvK,
 .bmqKpQ,
 .fQUMLV {
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 	overflow: hidden !important;
 	background-color: #203A43 !important;
 }
@@ -348,7 +348,7 @@ select {
 	background-color: #000000 !important;
 	border-color: transparent !important;
 	color: #fafafa !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 
@@ -380,7 +380,7 @@ select {
 
 .icxFlO,
 .elUIig {
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 
