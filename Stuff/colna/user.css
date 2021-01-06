@@ -17,7 +17,7 @@ body, .content-wrapper {
 .skin-blue .main-header .navbar,
 .skin-blue .main-header .logo,
 .main-footer {
-	background-color: #232323 !important;
+	background-color: #000000 !important;
 	border-color: transparent !important;
 	box-shadow: none !important;
 	opacity: 0.7 !important;
@@ -47,7 +47,7 @@ body, .content-wrapper {
 .JZicT>div>a.active,
 .JZicT>div>div.active {
 	box-shadow: #3F778A 0px -2px inset !important;
-	background-color: #203A43 !important;
+	background-color: #203A43 !important;	
 }
 
 
@@ -80,6 +80,7 @@ body, .content-wrapper {
 .iTwxpv,
 .skin-blue .main-header .logo {
 	color: #ffffff !important;
+	opacity: 1 !important;
 }
 
 
@@ -110,9 +111,10 @@ body, .content-wrapper {
 .jqQFoq,
 .bEKRkc,
 .dRhlIo {
-	background-color: #000000 !important;
-	border-radius: 15px !important;
+	background-color: #1a1a1a !important;
+	border-radius: 0px !important;
 	border-color: #212121 !important;
+	opacity: 0.7 !important;
 }
 
 
