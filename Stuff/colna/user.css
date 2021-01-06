@@ -160,7 +160,7 @@ code,
 .select2-container--default .select2-selection--multiple .select2-selection__choice,
 .select2-search--inline .select2-search__field:focus,
 .select2-container--default .select2-search--inline .select2-search__field {
-	border-radius: 15px;
+	border-radius: 0px;
 	background-color: #3F778A !important;
 	border-color: #3F778A !important;
 	color: #fafafa !important;
@@ -184,7 +184,7 @@ code,
 
 .hfBvRz,
 .fenved {
-	border-radius: 15px;
+	border-radius: 0px;
 	background-color: #203A43 !important;
 	border-color: #3F778A !important;
 }
@@ -237,7 +237,7 @@ pre,
 .bg-gray {
 	border-color: #3F778A !important;
 	background-color: #203A43 !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 	margin-bottom: 1vw !important;
 }
 
@@ -251,7 +251,7 @@ pre,
 .box-body {
 	border-color: transparent !important;
 	background-color: #192E35 !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 
@@ -357,7 +357,7 @@ select {
 .uOUEk.uOUEk,
 .jVkAsT[type="checkbox"],
 .jVkAsT[type="radio"] {
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 	background-color: #192E35 !important;
 	border-color: #3F778A !important;
 }
@@ -367,12 +367,12 @@ select {
 
 .ekHIsr::-webkit-scrollbar {
 	background: #203A43 !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 .ekHIsr {
 	background-color: #203A43 !important;
-	border-radius: 15px !important;
+	border-radius: 0px !important;
 }
 
 
