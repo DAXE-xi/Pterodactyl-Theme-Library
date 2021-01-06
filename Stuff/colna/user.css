@@ -17,10 +17,10 @@ body, .content-wrapper {
 .skin-blue .main-header .navbar,
 .skin-blue .main-header .logo,
 .main-footer {
-	background-color: #232323 !important;
+	background: url("https://yiteee.github.io/thems/cool-backgrounds-hd-vector-pack-deals-bypeople-featured.png") !important;
 	border-color: transparent !important;
 	box-shadow: none !important;
-	opacity: 0.4 !important;
+	opacity: 0.9 !important;
 }
 
 
