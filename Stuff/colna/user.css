@@ -46,8 +46,8 @@ body, .content-wrapper {
 .JZicT>div>div:active,
 .JZicT>div>a.active,
 .JZicT>div>div.active {
-	box-shadow: #3F778A 0px -2px inset !important;
-	background-color: #203A43 !important;	
+	box-shadow: #202020 0px -2px inset !important;
+	background-color: #303030 !important;	
 }
 
 
@@ -161,9 +161,9 @@ code,
 .select2-search--inline .select2-search__field:focus,
 .select2-container--default .select2-search--inline .select2-search__field {
 	border-radius: 0px;
-	background-color: #3F778A !important;
-	border-color: #3F778A !important;
-	color: #fafafa !important;
+	background-color: #202020 !important;
+	border-color: #000000 !important;
+	color: #ffffff !important;
 }
 
 
