@@ -111,10 +111,10 @@ body, .content-wrapper {
 .jqQFoq,
 .bEKRkc,
 .dRhlIo {
-	background-color: #1a1a1a !important;
+	background-color: #000000 !important;
 	border-radius: 0px !important;
 	border-color: #212121 !important;
-	opacity: 0.7 !important;
+	opacity: 0.9 !important;
 }
 
 
@@ -137,8 +137,8 @@ body, .content-wrapper {
 .jqQFoq .status-bar,
 .bEKRkc .status-bar,
 .dRhlIo .status-bar {
-	height: 7vw !important;
-	right: -.25vw !important;
+	height: 8vw !important;
+	right: -.29vw !important;
 }
 
 
