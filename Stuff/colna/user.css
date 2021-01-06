@@ -459,21 +459,5 @@ hr {
 
 }
 
-/* Changes console */
-
-.LbmBV,
-.hahdAC {
-	
-	background-color: #000000 !important;
-	
-}
-
-
-/* Changes console color */
-
-.xterm .xterm-screen,
-.xterm .xterm-viewport {
-	background-color: #000000 !important;
-}
 
 
