@@ -162,8 +162,8 @@ code,
 .select2-container--default .select2-search--inline .select2-search__field {
 	border-radius: 0px;
 	background-color: #202020 !important;
-	border-color: #000000 !important;
-	color: #ffffff !important;
+	border-color: #242424 !important;
+	color: #000000 !important;
 }
 
 
@@ -444,4 +444,32 @@ hr {
 
 #app > div.App___StyledDiv-sc-2l91w7-0.fnfeQw > div.Fade__Container-sc-1p0gm8n-0.hcgQjy > section > div.ContentContainer-x3r2dw-0.PageContentBlock___StyledContentContainer-kbxq2g-0.hiUzTH.ckLneN.ServerConsole___StyledServerContentBlock-sc-1j2y518-0.hlbvqz.fade-appear-done.fade-enter-done > div.ServerConsole___StyledDiv-sc-1j2y518-1.dfrjYE > div.TitledGreyBox___StyledDiv-gvsoy-0.kGXByO.ServerDetailsBlock___StyledTitledGreyBox-sc-168cvuh-0.dQCdoR > div.TitledGreyBox___StyledDiv3-gvsoy-4.fIhPZJ > p.ServerDetailsBlock___StyledP2-sc-168cvuh-3.wOPxU.CopyOnClick___StyledCopyToClipboard-sc-7pjzdv-1.knscqo > code {
 	background: #192E35 !important;
+}
+
+/* Changes schedule, Users, Network, File Manager */
+
+.kqnFDg,
+.kHuGmn,
+.hIHBYg,
+.eGIYvK,
+.bmqKpQ,
+.fQUMLV {
+	
+	background-color: #242424 !important;
+
+/* Changes console */
+
+.LbmBV,
+.hahdAC {
+	
+	background-color: #192E35 !important;
+	
+}
+
+
+/* Changes console color */
+
+.xterm .xterm-screen,
+.xterm .xterm-viewport {
+	background-color: #000000 !important;
 }
